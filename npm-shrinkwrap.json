@@ -1,0 +1,20 @@
+{
+  "name": "papamama",
+  "version": "1.0.0",
+  "dependencies": {
+    "shapefile": {
+      "version": "0.3.1",
+      "dependencies": {
+        "iconv-lite": {
+          "version": "0.4.3"
+        },
+        "optimist": {
+          "version": "0.3"
+        },
+        "d3-queue": {
+          "version": "1"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "papamama",
+  "version": "1.0.0",
+  "description": "保育園検索アプリ",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "gulp serve",
+    "updatedata": "gulp updatedata"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/og-kyogikai/papamama.git"
+  },
+  "author": "code for chiba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/og-kyogikai/papamama/issues"
+  },
+  "homepage": "https://github.com/og-kyogikai/papamama#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "csv": "^1.1.0",
+    "geojson": "^0.4.0",
+    "gulp": "^3.9.1",
+    "iconv-lite": "0.4.3",
+    "line-stream-util": "^1.2.0",
+    "point-in-polygon": "^1.0.0",
+    "run-sequence": "^1.1.5",
+    "shapefile": "^0.3.1"
+  }
+}
