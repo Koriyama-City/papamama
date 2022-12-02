@@ -7,7 +7,9 @@
   },
   "scripts": {
     "start": "gulp serve",
-    "updatedata": "gulp updatedata"
+    "updatedata": "gulp updatedata",
+    "data-nursery": "gulp data-nursery"
+
   },
   "repository": {
     "type": "git",
